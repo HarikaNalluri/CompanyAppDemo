@@ -1,0 +1,12 @@
+C:\Users\Harika\source\repos\Cms.Data\bin\Debug\netcoreapp3.1\Cms.Data.deps.json
+C:\Users\Harika\source\repos\Cms.Data\bin\Debug\netcoreapp3.1\Cms.Data.dll
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.AssemblyInfoInputs.cache
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.AssemblyInfo.cs
+C:\Users\Harika\source\repos\Cms.Data\bin\Debug\netcoreapp3.1\Cms.Data.pdb
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.csproj.CoreCompileInputs.cache
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.dll
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.pdb
+C:\Users\Harika\source\repos\Cms.Data\bin\Debug\netcoreapp3.1\Cms.Data.runtimeconfig.json
+C:\Users\Harika\source\repos\Cms.Data\bin\Debug\netcoreapp3.1\Cms.Data.runtimeconfig.dev.json
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.genruntimeconfig.cache
+C:\Users\Harika\source\repos\Cms.Data\obj\Debug\netcoreapp3.1\Cms.Data.csprojAssemblyReference.cache
