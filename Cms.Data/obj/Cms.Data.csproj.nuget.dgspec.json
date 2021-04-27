@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harika\\source\\repos\\Cms.Data\\Cms.Data.csproj": {}
+    "C:\\Users\\Harika\\source\\repos\\CMS\\Cms.Data\\Cms.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harika\\source\\repos\\Cms.Data\\Cms.Data.csproj": {
+    "C:\\Users\\Harika\\source\\repos\\CMS\\Cms.Data\\Cms.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harika\\source\\repos\\Cms.Data\\Cms.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Harika\\source\\repos\\CMS\\Cms.Data\\Cms.Data.csproj",
         "projectName": "Cms.Data",
-        "projectPath": "C:\\Users\\Harika\\source\\repos\\Cms.Data\\Cms.Data.csproj",
+        "projectPath": "C:\\Users\\Harika\\source\\repos\\CMS\\Cms.Data\\Cms.Data.csproj",
         "packagesPath": "C:\\Users\\Harika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harika\\source\\repos\\Cms.Data\\obj\\",
+        "outputPath": "C:\\Users\\Harika\\source\\repos\\CMS\\Cms.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
